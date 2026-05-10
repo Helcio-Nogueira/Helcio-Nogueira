@@ -27,7 +27,7 @@ Me chamo Helcio Nogueira, tenho 19 anos. Sou graduando em Engenharia da ComputaÃ
 <br/>
 <br/>
 
-## Linguagens e Tecnologias
+## ğŸ’» Linguagens e Tecnologias
 <img 
     align="left" 
     alt="HTML"
