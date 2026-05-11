@@ -6,27 +6,6 @@ Me chamo Helcio Nogueira, tenho 19 anos. Sou graduando em Engenharia da Computa�
 
 ---
 
-## 📈 Estatísticas
-
-<p align="left">
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Helcio-Nogueira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    align="left" 
-    alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helcio-Nogueira&show_icons=true&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
-
-<br/>
-<br/>
-
 ## 💻 Linguagens e Tecnologias
 <img 
     align="left" 
