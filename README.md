@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Fullstack`** 🚀
 
-Me chamo Helcio Nogueira, tenho 19 anos. Sou graduando em Engenharia da Computação e estudante do curso Técnico em Desenvolvimento de Sistemas. Atualmente, meu objetivo de carreira é ingressar no mercado de tecnologia. Busco uma oportunidade para aprimorar as minhas habilidades em projetos reais e agregar valor a uma equipe, mantendo sempre a visão de longo prazo de me desenvolver profissionalmente como Desenvolvedor Full-stack.
+Me chamo Helcio Nogueira, tenho 19 anos. Sou graduando em Engenharia da Computação. Atualmente, meu objetivo de carreira é ingressar no mercado de tecnologia. Busco uma oportunidade para aprimorar as minhas habilidades em projetos reais e agregar valor a uma equipe, mantendo sempre a visão de longo prazo de me desenvolver profissionalmente como Desenvolvedor Full-stack.
 
 ---
 
