@@ -1,8 +1,12 @@
 ## 👨‍💻 Helcio Nogueira
 
-**`Desenvolvedor Fullstack`** 🚀
+Meu nome é Helcio Nogueira, tenho 19 anos e sou graduando em Engenharia da Computação pela Universidade Presbiteriana Mackenzie.
 
-Me chamo Helcio Nogueira, tenho 19 anos. Sou graduando em Engenharia da Computação. Atualmente, meu objetivo de carreira é ingressar no mercado de tecnologia. Busco uma oportunidade para aprimorar as minhas habilidades em projetos reais e agregar valor a uma equipe, mantendo sempre a visão de longo prazo de me desenvolver profissionalmente como Desenvolvedor Full-stack.
+Tenho grande interesse por tecnologia e busco aprimorar continuamente meus conhecimentos nas áreas de:
+
+- Desenvolvimento de Software;
+- Eletrônica voltada à Computação;
+- Edição de vídeos e efeitos visuais (VFX)
 
 ---
 
