@@ -6,7 +6,6 @@ Tenho grande interesse por tecnologia e busco aprimorar continuamente meus conhe
 
 - Desenvolvimento de Software;
 - Eletrônica voltada à Computação;
-- Edição de vídeos e efeitos visuais (VFX)
 
 ---
 
